@@ -5,5 +5,4 @@ pytest test_ged.py
 pytest test_sphg.py
 pytest test_canonicalize.py
 pytest test_buildDatabase.py
-pytest test_allsteps.py
 pytest test_analyzeAllCompounds.py
