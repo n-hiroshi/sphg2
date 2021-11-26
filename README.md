@@ -9,9 +9,9 @@ This library contains all of the required files to compute Sparse Pharmacophore 
 and clustering/visualization methods of a group of SPhGs for understanding ligand design convepts.
 
 For more information, please read : 
-J. Chem. inf .Model. 2020, 60, 2073-2081.
-J. Chem. Inf. Model. 2021, 61, 3348–3360.
-The clustering and Visulalization of SPhGs is under review.
+* J. Chem. inf .Model. 2020, 60, 2073-2081.
+* J. Chem. Inf. Model. 2021, 61, 3348–3360.
+* The clustering and Visulalization of SPhGs is under review.
 
 ## Getting Started
 
