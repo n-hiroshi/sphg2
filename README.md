@@ -11,7 +11,7 @@ and clustering/visualization methods of a group of SPhGs for understanding ligan
 For more information, please read : 
 * J. Chem. inf .Model. 2020, 60, 2073-2081.
 * J. Chem. Inf. Model. 2021, 61, 3348–3360.
-* The clustering and Visulalization of SPhGs is under review.
+* A manuscript about a method of clustering and visulalizing SPhGs is under review.
 
 ## Getting Started
 
